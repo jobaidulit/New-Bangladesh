@@ -7,9 +7,9 @@
     border-radius: 5px;
     padding: 10px 25px;
 }
-*body{
+body{
     margin: 50px;
-    background-color: aliceblue;
+    background-color:whitesmoke;
 }
 header{
     margin: 50px;
@@ -35,4 +35,14 @@ font-weight: 600;
     color: white;
     border-radius: 10px;
     cursor: pointer;
+}
+#pillar{
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.box-1{
+    background-color:white;
+    padding: 10px;
+    border-radius: 10px;
 }
