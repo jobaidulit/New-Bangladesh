@@ -37,7 +37,7 @@ font-weight: 600;
     cursor: pointer;
 }
 #pillar{
-    margin: 50px;
+    margin: 30px;
     display: flex;
     justify-content: space-around;
 }
@@ -45,4 +45,69 @@ font-weight: 600;
     background-color:white;
     padding: 10px;
     border-radius: 10px;
+}
+#future{
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    gap: 25px;
+    
+}
+.future-1{
+    height: 250px;
+    width: 250px;
+    background-color: blanchedalmond;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px 20px rgba(128, 128, 128, 0.196);
+    
+}
+
+.fbtn-1{
+    background-color: #046a399e;
+    padding: 8px 15px;
+    color: rgba(255, 255, 255, 0.979);
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.fbtn-2{
+    background-color:gray;
+    padding: 8px 15px;
+    color: rgba(255, 255, 255, 0.979);
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.fbtn-3{
+    background-color: blueviolet;
+    padding: 8px 15px;
+    color: rgba(255, 255, 255, 0.979);
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.future-2{
+      
+    height: 250px;
+    width: 250px;
+     background-color: cornsilk;
+    padding: 20px;
+    border-radius: 10px;
+     box-shadow: 10px 10px 20px 20px rgba(128, 128, 128, 0.196);
+}
+.future-3{
+    height: 250px;
+    width: 250px;
+     background-color: rgba(244, 165, 96, 0.253);
+    padding: 20px;
+    border-radius: 10px;
+     box-shadow: 10px 10px 20px 20px rgba(128, 128, 128, 0.196);
 }
