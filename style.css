@@ -158,3 +158,47 @@ font-weight: 600;
     border: 1px solid red;
     width: 40%;
     }
+    .donat{
+        display: flex;
+        justify-content: space-around;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    .don-1{
+        background-color:white;
+        padding: 10px 30px 10px 30px;
+        border-radius: 18px;
+    }
+    .don-2{
+          background-color:rgba(0, 128, 0, 0.541);
+        padding: 10px 30px 10px 30px;
+        color: white;
+        border-radius: 18px;
+    }
+    .other{
+        background-color: white;
+        text-align: center;
+        height: 50px;
+        align-items: center;
+        margin-right: 150px;
+        margin-left: 150px;
+    }
+    .btn{
+        margin-left: 47%;
+        margin-top: 25px;
+        padding: 8px 15px;
+        border-radius: 8px;
+        border: none;
+        background-color: #046a39ac;
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+        box-shadow: 8px 8px 8px grey;
+    }
+    .btn:hover{
+        background-color: rgba(128, 128, 128, 0.656);
+        color: red;
+        box-shadow: none;
+        font-size: 25px;
+    }   
+    
