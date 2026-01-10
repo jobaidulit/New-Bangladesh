@@ -200,5 +200,33 @@ font-weight: 600;
         color: red;
         box-shadow: none;
         font-size: 25px;
-    }   
+        padding-bottom: 20px;
+    }  
+    .sub{
+        margin-top: 50px;
+        margin-left: 100px;
+        margin-right: 100px;
+        background-color:rgba(127, 255, 212, 0.181) ;
+        border-radius: 20px;
+        
+    } 
+    .sub-contain{
+        text-align: center;
+        padding: 30px;
+    }
+    .intput{
+        height: 40px;
+        width: 500px;
+        border-top-left-radius: 8px;
+        border-bottom-left-radius: 8px;
+    }
+    .btn6{
+        height: 40px;
+        padding: 8px 20px;
+        background-color: #046A38;
+        color: white;
+        cursor: pointer;
+        border-bottom-right-radius: 8px;
+        border-top-right-radius: 8px;
+    }
     
